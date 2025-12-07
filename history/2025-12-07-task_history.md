@@ -1,38 +1,26 @@
 # 2025-12-07-task_history.md
 
-## default-nginx-cotainer
+## project-protostar-server-configs
 ### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
+- 레포지토리를 복제한 후, `README.md`에 `project-protostar/docs/guide`를 참조하는 `AI_Rules` 섹션을 추가했다.
 
-## project-mini-frontend
+## protostar-frontend
 ### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
+- `README.md`에 `project-protostar/docs/guide`를 참조하는 `AI_Rules` 섹션을 추가했다.
 
-## project-mini-jenkins
+## protostar-fastapi
 ### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
+- `README.md`에 `project-protostar/docs/guide`를 참조하는 `AI_Rules` 섹션을 추가했다.
 
-## project-mini-monitoring
+## protostar-k8s-config
 ### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
+- `README.md`에 `project-protostar/docs/guide`를 참조하는 `AI_Rules` 섹션을 추가했다.
 
-## project-n8n
+## protostar-nest
 ### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
-
-## project-protostar-fastapi
-### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
-
-## project-protostar-k8s-config
-### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
-
-## project-protostar-nest
-### Documentation Setup
-- Added `AI_Rules` section to `README.md` referencing `project-protostar/docs/guide`.
+- `README.md`에 `project-protostar/docs/guide`를 참조하는 `AI_Rules` 섹션을 추가했다.
 
 ## docs
 ### Rule Review and History
-- Reviewed `guide/default-guide.md` and established strict history recording rules (H2 = Repository/Folder Name).
-- Created this history file to document today's Documentation Setup tasks.
+- `guide/default-guide.md`를 검토하고, History 기록 규칙(H2 = 레포지토리/폴더명)을 엄격히 확립했다.
+- 재편된 프로젝트 구조에 맞춰 History 로그를 업데이트했다.
